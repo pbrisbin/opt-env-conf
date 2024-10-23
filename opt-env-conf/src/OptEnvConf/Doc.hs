@@ -37,6 +37,12 @@ module OptEnvConf.Doc
     settingConfDoc,
     renderConfDoc,
     helpLines,
+    withHelpAndVersionDocs,
+    withoutHiddenDocs,
+    docsToOptDocs,
+    docsToEnvDocs,
+    docsToConfDocs
+    nullDocs,
   )
 where
 
