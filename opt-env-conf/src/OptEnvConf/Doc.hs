@@ -41,8 +41,8 @@ module OptEnvConf.Doc
     withoutHiddenDocs,
     docsToOptDocs,
     docsToEnvDocs,
-    docsToConfDocs
-    nullDocs,
+    docsToConfDocs,
+    nullDocs
   )
 where
 
